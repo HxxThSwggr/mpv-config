@@ -1,2 +1,2 @@
-# mpv-config-hexx
+# mpv-config
 My mpv settings
